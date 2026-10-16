@@ -1,0 +1,80 @@
+[
+  {
+    "logical_name": "vascular_cell_metadata.csv",
+    "files": [
+      "outputs/intermediates/vascular_cell_metadata.csv.gz"
+    ]
+  },
+  {
+    "logical_name": "DE_VNhigh_vs_VNlow_EC.csv",
+    "files": [
+      "outputs/intermediates/DE_VNhigh_vs_VNlow_EC.csv"
+    ]
+  },
+  {
+    "logical_name": "cell_review_module_scores.csv",
+    "files": [
+      "outputs/intermediates/mechanism_modules_part_1.csv.gz",
+      "outputs/intermediates/mechanism_modules_part_2.csv.gz",
+      "outputs/intermediates/mechanism_modules_part_3.csv.gz",
+      "outputs/intermediates/mechanism_modules_part_4.csv.gz",
+      "outputs/intermediates/mechanism_modules_part_5.csv.gz",
+      "outputs/intermediates/mechanism_modules_part_6.csv.gz"
+    ],
+    "rows": 232015
+  },
+  {
+    "logical_name": "review_axis_spearman_correlation.csv",
+    "files": [
+      "outputs/intermediates/review_axis_spearman_correlation.csv"
+    ]
+  },
+  {
+    "logical_name": "scores_by_celltype.csv",
+    "files": [
+      "outputs/intermediates/scores_by_celltype.csv"
+    ]
+  },
+  {
+    "logical_name": "tcell_scored.csv",
+    "files": [
+      "outputs/intermediates/tcell_scored.csv.gz"
+    ]
+  },
+  {
+    "logical_name": "myeloid_scored.csv",
+    "files": [
+      "outputs/intermediates/myeloid_scored.csv.gz"
+    ]
+  },
+  {
+    "logical_name": "tcell_subtype_proportion.csv",
+    "files": [
+      "outputs/intermediates/tcell_subtype_proportion.csv"
+    ]
+  },
+  {
+    "logical_name": "myeloid_subtype_proportion.csv",
+    "files": [
+      "outputs/intermediates/myeloid_subtype_proportion.csv"
+    ]
+  },
+  {
+    "logical_name": "knn_tcell_fracs.npy",
+    "files": [
+      "outputs/intermediates/knn_tcell_fracs.npy"
+    ]
+  },
+  {
+    "logical_name": "five_axis_vni_survival_data.csv",
+    "files": [
+      "outputs/intermediates/five_axis_vni_survival_data.csv"
+    ]
+  },
+  {
+    "logical_name": "cox_results.csv",
+    "files": [
+      "outputs/intermediates/cox_results.csv"
+    ]
+  }
+]
