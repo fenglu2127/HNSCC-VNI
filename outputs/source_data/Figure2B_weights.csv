@@ -1,0 +1,6 @@
+component,weight
+z(VM),0.2
+z(PC-positive-PC-immature),0.2
+-z(HDA),0.2
+z(IVI),0.2
+z(EBI-positive-EBI-dysfunction),0.2
