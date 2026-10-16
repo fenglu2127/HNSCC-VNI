@@ -1,0 +1,324 @@
+Category,Module,Gene
+Five-axis VNI,VM,PECAM1
+Five-axis VNI,VM,CDH5
+Five-axis VNI,VM,KDR
+Five-axis VNI,VM,TEK
+Five-axis VNI,VM,TIE1
+Five-axis VNI,VM,ENG
+Five-axis VNI,VM,NRP1
+Five-axis VNI,VM,CLDN5
+Five-axis VNI,VM,OCLN
+Five-axis VNI,VM,ESAM
+Five-axis VNI,VM,GJA4
+Five-axis VNI,VM,GJA5
+Five-axis VNI,VM,EFNB2
+Five-axis VNI,VM,HEY1
+Five-axis VNI,VM,HEY2
+Five-axis VNI,VM,NR2F2
+Five-axis VNI,VM,EMCN
+Five-axis VNI,VM,APLNR
+Five-axis VNI,VM,EPHB4
+Five-axis VNI,VM,DLL4
+Five-axis VNI,VM,JAG1
+Five-axis VNI,VM,NOTCH4
+Five-axis VNI,VM,FLT1
+Five-axis VNI,PC-positive,PDGFRB
+Five-axis VNI,PC-positive,CSPG4
+Five-axis VNI,PC-positive,ANGPT1
+Five-axis VNI,PC-positive,MCAM
+Five-axis VNI,PC-positive,DES
+Five-axis VNI,PC-positive,TAGLN
+Five-axis VNI,PC-positive,MYH11
+Five-axis VNI,PC-positive,NOTCH3
+Five-axis VNI,PC-positive,ACTA2
+Five-axis VNI,PC-immature,RGS5
+Five-axis VNI,PC-immature,HEYL
+Five-axis VNI,PC-immature,MCAM
+Five-axis VNI,HDA,HIF1A
+Five-axis VNI,HDA,EPAS1
+Five-axis VNI,HDA,VEGFA
+Five-axis VNI,HDA,VEGFC
+Five-axis VNI,HDA,ANGPT2
+Five-axis VNI,HDA,CA9
+Five-axis VNI,HDA,LDHA
+Five-axis VNI,HDA,PDK1
+Five-axis VNI,HDA,SLC2A1
+Five-axis VNI,HDA,BNIP3
+Five-axis VNI,HDA,BNIP3L
+Five-axis VNI,HDA,NDRG1
+Five-axis VNI,HDA,ESM1
+Five-axis VNI,HDA,APLN
+Five-axis VNI,HDA,CXCR4
+Five-axis VNI,HDA,CXCL8
+Five-axis VNI,HDA,S100A8
+Five-axis VNI,HDA,S100A9
+Five-axis VNI,HDA,MKI67
+Five-axis VNI,IVI,ICAM1
+Five-axis VNI,IVI,VCAM1
+Five-axis VNI,IVI,SELE
+Five-axis VNI,IVI,SELP
+Five-axis VNI,IVI,CXCL9
+Five-axis VNI,IVI,CXCL10
+Five-axis VNI,IVI,CXCL11
+Five-axis VNI,IVI,CCL2
+Five-axis VNI,IVI,CCL5
+Five-axis VNI,IVI,HLA-A
+Five-axis VNI,IVI,HLA-B
+Five-axis VNI,IVI,HLA-C
+Five-axis VNI,IVI,TNFSF10
+Five-axis VNI,IVI,CD274
+Five-axis VNI,IVI,PDCD1LG2
+Five-axis VNI,EBI-positive,COL4A1
+Five-axis VNI,EBI-positive,COL4A2
+Five-axis VNI,EBI-positive,COL4A3
+Five-axis VNI,EBI-positive,LAMA4
+Five-axis VNI,EBI-positive,LAMB1
+Five-axis VNI,EBI-positive,LAMB2
+Five-axis VNI,EBI-positive,LAMC1
+Five-axis VNI,EBI-positive,HSPG2
+Five-axis VNI,EBI-positive,NID1
+Five-axis VNI,EBI-positive,NID2
+Five-axis VNI,EBI-positive,TIMP1
+Five-axis VNI,EBI-positive,TIMP2
+Five-axis VNI,EBI-dysfunction,MMP2
+Five-axis VNI,EBI-dysfunction,MMP9
+Five-axis VNI,EBI-dysfunction,MMP14
+Five-axis VNI,EBI-dysfunction,MMP1
+Five-axis VNI,EBI-dysfunction,FN1
+Five-axis VNI,EBI-dysfunction,CTGF
+Five-axis VNI,EBI-dysfunction,CCN2
+Mechanism modules,EC maturation/phalanx,PECAM1
+Mechanism modules,EC maturation/phalanx,VWF
+Mechanism modules,EC maturation/phalanx,CDH5
+Mechanism modules,EC maturation/phalanx,CLDN5
+Mechanism modules,EC maturation/phalanx,ESAM
+Mechanism modules,EC maturation/phalanx,KLF2
+Mechanism modules,EC maturation/phalanx,KLF4
+Mechanism modules,EC maturation/phalanx,TEK
+Mechanism modules,EC maturation/phalanx,ENG
+Mechanism modules,EC tip/sprouting,KDR
+Mechanism modules,EC tip/sprouting,DLL4
+Mechanism modules,EC tip/sprouting,ESM1
+Mechanism modules,EC tip/sprouting,ANGPT2
+Mechanism modules,EC tip/sprouting,APLN
+Mechanism modules,EC tip/sprouting,CXCR4
+Mechanism modules,EC tip/sprouting,PDGFB
+Mechanism modules,EC stalk/Notch,NOTCH1
+Mechanism modules,EC stalk/Notch,HEY1
+Mechanism modules,EC stalk/Notch,HEY2
+Mechanism modules,EC stalk/Notch,JAG1
+Mechanism modules,EC stalk/Notch,NRP1
+Mechanism modules,EC stalk/Notch,FLT1
+Mechanism modules,Pathological TEC embryonic,FBN2
+Mechanism modules,Pathological TEC embryonic,EMILIN2
+Mechanism modules,Pathological TEC embryonic,LOX
+Mechanism modules,Pathological TEC embryonic,SERPINE1
+Mechanism modules,Pathological TEC embryonic,COL15A1
+Mechanism modules,Pathological TEC embryonic,IGFBP7
+Mechanism modules,Abnormal angiogenesis,VEGFA
+Mechanism modules,Abnormal angiogenesis,ANGPT2
+Mechanism modules,Abnormal angiogenesis,FGF2
+Mechanism modules,Abnormal angiogenesis,PDGFB
+Mechanism modules,Abnormal angiogenesis,APLN
+Mechanism modules,Abnormal angiogenesis,ADM
+Mechanism modules,Abnormal angiogenesis,MMP14
+Mechanism modules,Hypoxia/acidosis,HIF1A
+Mechanism modules,Hypoxia/acidosis,CA9
+Mechanism modules,Hypoxia/acidosis,SLC2A1
+Mechanism modules,Hypoxia/acidosis,LDHA
+Mechanism modules,Hypoxia/acidosis,ALDOA
+Mechanism modules,Hypoxia/acidosis,ENO1
+Mechanism modules,Hypoxia/acidosis,ADM
+Mechanism modules,EC antigen presentation,HLA-A
+Mechanism modules,EC antigen presentation,HLA-B
+Mechanism modules,EC antigen presentation,HLA-C
+Mechanism modules,EC antigen presentation,B2M
+Mechanism modules,EC antigen presentation,TAP1
+Mechanism modules,EC antigen presentation,TAP2
+Mechanism modules,EC antigen presentation,NLRC5
+Mechanism modules,EC leukocyte adhesion,ICAM1
+Mechanism modules,EC leukocyte adhesion,ICAM2
+Mechanism modules,EC leukocyte adhesion,VCAM1
+Mechanism modules,EC leukocyte adhesion,SELE
+Mechanism modules,EC leukocyte adhesion,SELPLG
+Mechanism modules,EC leukocyte adhesion,CD99
+Mechanism modules,EC leukocyte adhesion,JAM2
+Mechanism modules,EC leukocyte adhesion,JAM3
+Mechanism modules,EC death-ligand barrier,FASLG
+Mechanism modules,EC death-ligand barrier,PDCD1LG2
+Mechanism modules,EC death-ligand barrier,CD274
+Mechanism modules,EC death-ligand barrier,LGALS9
+Mechanism modules,EC death-ligand barrier,TNFSF10
+Mechanism modules,CXCL9/10 T-cell recruitment,CXCL9
+Mechanism modules,CXCL9/10 T-cell recruitment,CXCL10
+Mechanism modules,CXCL9/10 T-cell recruitment,CXCL11
+Mechanism modules,CXCL9/10 T-cell recruitment,CXCR3
+Mechanism modules,CXCL9/10 T-cell recruitment,IFNG
+Mechanism modules,CXCL9/10 T-cell recruitment,STAT1
+Mechanism modules,CXCL9/10 T-cell recruitment,IRF1
+Mechanism modules,T-cell cytotoxic effector,CD8A
+Mechanism modules,T-cell cytotoxic effector,CD8B
+Mechanism modules,T-cell cytotoxic effector,GZMB
+Mechanism modules,T-cell cytotoxic effector,PRF1
+Mechanism modules,T-cell cytotoxic effector,NKG7
+Mechanism modules,T-cell cytotoxic effector,GNLY
+Mechanism modules,T-cell cytotoxic effector,IFNG
+Mechanism modules,T-cell dysfunction/Treg,PDCD1
+Mechanism modules,T-cell dysfunction/Treg,HAVCR2
+Mechanism modules,T-cell dysfunction/Treg,LAG3
+Mechanism modules,T-cell dysfunction/Treg,TIGIT
+Mechanism modules,T-cell dysfunction/Treg,TOX
+Mechanism modules,T-cell dysfunction/Treg,CXCL13
+Mechanism modules,T-cell dysfunction/Treg,FOXP3
+Mechanism modules,T-cell dysfunction/Treg,IL2RA
+Mechanism modules,T-cell dysfunction/Treg,CTLA4
+Mechanism modules,Pericyte coverage,RGS5
+Mechanism modules,Pericyte coverage,PDGFRB
+Mechanism modules,Pericyte coverage,CSPG4
+Mechanism modules,Pericyte coverage,MCAM
+Mechanism modules,Pericyte coverage,ACTA2
+Mechanism modules,Pericyte coverage,MYH11
+Mechanism modules,Pericyte coverage,TAGLN
+Mechanism modules,Pericyte coverage,NOTCH3
+Mechanism modules,Pericyte coverage,DES
+Mechanism modules,ANG1/TIE2 stabilization,ANGPT1
+Mechanism modules,ANG1/TIE2 stabilization,TEK
+Mechanism modules,ANG1/TIE2 stabilization,TIE1
+Mechanism modules,ANG1/TIE2 stabilization,FOXO1
+Mechanism modules,ANG1/TIE2 stabilization,KLF2
+Mechanism modules,ANG1/TIE2 stabilization,KLF4
+Mechanism modules,ANG2 destabilization,ANGPT2
+Mechanism modules,ANG2 destabilization,TEK
+Mechanism modules,ANG2 destabilization,VEGFA
+Mechanism modules,ANG2 destabilization,KDR
+Mechanism modules,ANG2 destabilization,MMP14
+Mechanism modules,PDGFB/PDGFRB axis,PDGFB
+Mechanism modules,PDGFB/PDGFRB axis,PDGFRB
+Mechanism modules,PDGFB/PDGFRB axis,RGS5
+Mechanism modules,PDGFB/PDGFRB axis,CSPG4
+Mechanism modules,PDGFB/PDGFRB axis,MCAM
+Mechanism modules,Basement-membrane integrity,COL4A1
+Mechanism modules,Basement-membrane integrity,COL4A2
+Mechanism modules,Basement-membrane integrity,HSPG2
+Mechanism modules,Basement-membrane integrity,LAMA4
+Mechanism modules,Basement-membrane integrity,LAMB1
+Mechanism modules,Basement-membrane integrity,NID1
+Mechanism modules,Basement-membrane integrity,NID2
+Mechanism modules,Basement-membrane integrity,TIMP1
+Mechanism modules,ECM remodeling MMP/LOX,MMP2
+Mechanism modules,ECM remodeling MMP/LOX,MMP9
+Mechanism modules,ECM remodeling MMP/LOX,MMP14
+Mechanism modules,ECM remodeling MMP/LOX,LOX
+Mechanism modules,ECM remodeling MMP/LOX,LOXL2
+Mechanism modules,ECM remodeling MMP/LOX,TIMP1
+Mechanism modules,ECM remodeling MMP/LOX,TIMP2
+Mechanism modules,ECM remodeling MMP/LOX,FN1
+Mechanism modules,CAF mechanical compression,FAP
+Mechanism modules,CAF mechanical compression,ACTA2
+Mechanism modules,CAF mechanical compression,TAGLN
+Mechanism modules,CAF mechanical compression,MYL9
+Mechanism modules,CAF mechanical compression,COL1A1
+Mechanism modules,CAF mechanical compression,COL1A2
+Mechanism modules,CAF mechanical compression,COL3A1
+Mechanism modules,CAF mechanical compression,FN1
+Mechanism modules,CAF mechanical compression,POSTN
+Mechanism modules,CAF mechanical compression,LOX
+Mechanism modules,CAF mechanical compression,LOXL2
+Mechanism modules,YAP/TAZ mechanotransduction,YAP1
+Mechanism modules,YAP/TAZ mechanotransduction,WWTR1
+Mechanism modules,YAP/TAZ mechanotransduction,CTGF
+Mechanism modules,YAP/TAZ mechanotransduction,CYR61
+Mechanism modules,YAP/TAZ mechanotransduction,ANKRD1
+Mechanism modules,YAP/TAZ mechanotransduction,AMOTL2
+Mechanism modules,Glycolysis/lactate,SLC2A1
+Mechanism modules,Glycolysis/lactate,HK2
+Mechanism modules,Glycolysis/lactate,PFKP
+Mechanism modules,Glycolysis/lactate,ALDOA
+Mechanism modules,Glycolysis/lactate,ENO1
+Mechanism modules,Glycolysis/lactate,PKM
+Mechanism modules,Glycolysis/lactate,LDHA
+Mechanism modules,Glycolysis/lactate,SLC16A1
+Mechanism modules,Glycolysis/lactate,SLC16A3
+Mechanism modules,Adenosine immunosuppression,ENTPD1
+Mechanism modules,Adenosine immunosuppression,NT5E
+Mechanism modules,Adenosine immunosuppression,ADORA2A
+Mechanism modules,Adenosine immunosuppression,ADORA2B
+Mechanism modules,Adenosine immunosuppression,CD38
+Mechanism modules,Inflammatory NF-kB,NFKB1
+Mechanism modules,Inflammatory NF-kB,RELA
+Mechanism modules,Inflammatory NF-kB,IL6
+Mechanism modules,Inflammatory NF-kB,CXCL8
+Mechanism modules,Inflammatory NF-kB,CCL2
+Mechanism modules,Inflammatory NF-kB,ICAM1
+Mechanism modules,Inflammatory NF-kB,VCAM1
+Mechanism modules,SPP1-TAM remodeling,SPP1
+Mechanism modules,SPP1-TAM remodeling,APOE
+Mechanism modules,SPP1-TAM remodeling,TREM2
+Mechanism modules,SPP1-TAM remodeling,MMP9
+Mechanism modules,SPP1-TAM remodeling,CTSB
+Mechanism modules,SPP1-TAM remodeling,CSTB
+Mechanism modules,SPP1-TAM remodeling,LGALS3
+Mechanism modules,IL1B inflammatory myeloid,IL1B
+Mechanism modules,IL1B inflammatory myeloid,CXCL8
+Mechanism modules,IL1B inflammatory myeloid,S100A8
+Mechanism modules,IL1B inflammatory myeloid,S100A9
+Mechanism modules,IL1B inflammatory myeloid,NLRP3
+Mechanism modules,IL1B inflammatory myeloid,LYZ
+Mechanism modules,IL1B inflammatory myeloid,LST1
+Mechanism modules,mregDC antigen presentation,CCR7
+Mechanism modules,mregDC antigen presentation,LAMP3
+Mechanism modules,mregDC antigen presentation,FSCN1
+Mechanism modules,mregDC antigen presentation,CCL19
+Mechanism modules,mregDC antigen presentation,CCL22
+Mechanism modules,mregDC antigen presentation,CD80
+Mechanism modules,mregDC antigen presentation,CD83
+Mechanism modules,mregDC antigen presentation,HLA-DRA
+Mechanism modules,mregDC antigen presentation,HLA-DPA1
+Immune function,CD8 cytotoxic,CD8A
+Immune function,CD8 cytotoxic,CD8B
+Immune function,CD8 cytotoxic,GZMB
+Immune function,CD8 cytotoxic,GZMA
+Immune function,CD8 cytotoxic,PRF1
+Immune function,CD8 cytotoxic,IFNG
+Immune function,CD8 cytotoxic,GNLY
+Immune function,CD8 cytotoxic,NKG7
+Immune function,T-cell exhaustion,PDCD1
+Immune function,T-cell exhaustion,LAG3
+Immune function,T-cell exhaustion,HAVCR2
+Immune function,T-cell exhaustion,TIGIT
+Immune function,T-cell exhaustion,TOX
+Immune function,T-cell exhaustion,ENTPD1
+Immune function,T-cell exhaustion,CTLA4
+Immune function,Treg activity,FOXP3
+Immune function,Treg activity,IL2RA
+Immune function,Treg activity,IKZF2
+Immune function,Treg activity,IL10
+Immune function,Treg activity,TGFB1
+Immune function,T-cell effector,TBX21
+Immune function,T-cell effector,EOMES
+Immune function,T-cell effector,CX3CR1
+Immune function,T-cell effector,KLRG1
+Immune function,T-cell effector,GZMB
+Immune function,T-cell effector,PRF1
+Immune function,M1-like,CD86
+Immune function,M1-like,NOS2
+Immune function,M1-like,IL6
+Immune function,M1-like,TNF
+Immune function,M1-like,CXCL9
+Immune function,M1-like,CXCL10
+Immune function,M1-like,STAT1
+Immune function,M1-like,IL12B
+Immune function,M2-like,CD163
+Immune function,M2-like,MRC1
+Immune function,M2-like,ARG1
+Immune function,M2-like,IL10
+Immune function,M2-like,CCL22
+Immune function,M2-like,CD209
+Immune function,M2-like,TGFB1
+Immune function,SPP1-TAM,SPP1
+Immune function,SPP1-TAM,APOE
+Immune function,SPP1-TAM,C1QA
+Immune function,SPP1-TAM,C1QB
+Immune function,SPP1-TAM,C1QC
+Immune function,SPP1-TAM,GPNMB
+Immune function,SPP1-TAM,FTL

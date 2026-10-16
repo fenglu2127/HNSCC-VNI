@@ -1,0 +1,8 @@
+# Versions used for the completed local upstream run on 2026-10-15.
+# Documentation of the tested R environment, not a pip requirements file.
+R 4.6.1
+Seurat 5.5.1
+Matrix 1.7.6
+data.table 1.18.6.1
+dplyr 1.2.1
+ggplot2 4.0.3
