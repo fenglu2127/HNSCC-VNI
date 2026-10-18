@@ -44,4 +44,12 @@ Figure 2A shows unadjusted module means. Mechanism indices in Figure 7 are disti
 
 Figure source data and processed plotting inputs are included. Complete upstream analyses require approximately 16 GiB of additional processed data; these files are not included. The Seurat atlas source is https://doi.org/10.5281/zenodo.17880437. The AnnData object is a derived atlas export; its conversion script is unavailable. Exact TCGA input checksums are documented, but the original download manifest is unavailable. A persistent download location for the exact AnnData and TCGA inputs is not currently specified, which limits independent upstream reproduction.
 
-The workflow starts from integrated atlas objects and TCGA FPKM, not sequencing reads. Data-use permissions are governed by the original providers. No software licence is specified in this repository.
+The workflow starts from integrated atlas objects and TCGA FPKM, not sequencing reads. Data-use permissions are governed by the original providers.
+
+## License
+
+Original analysis code and its accompanying software documentation are released under the [MIT License](LICENSE), copyright (c) 2026 HNSCC-VNI contributors. Use, modification and redistribution, including commercial use, are permitted subject to retaining the copyright and permission notices. The software is provided without warranty.
+
+This license does not relicense third-party code or dependencies, which retain their own licenses. It does not grant a license to datasets, derived data tables, figures or manuscript text; permissions for those materials must be determined separately, including any conditions imposed by the original data providers.
+
+If you use this work in research, please acknowledge this repository and cite the associated study when its bibliographic details are available. This citation request is not an additional condition of the MIT License.
